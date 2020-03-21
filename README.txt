@@ -1,0 +1,1 @@
+OS empleado: MV de la UOC, en macOS.
