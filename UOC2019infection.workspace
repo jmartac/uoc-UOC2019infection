@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC2019infection" Database="" Version="10.0.0">
+  <Project Name="UOCinfection" Path="UOCinfection/UOCinfection.project" Active="Yes"/>
+  <Project Name="UOCinfectiousAgent" Path="UOCinfectiousAgent/UOCinfectiousAgent.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCinfection" ConfigName="Debug"/>
+      <Project Name="UOCinfectiousAgent" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOCinfection" ConfigName="Release"/>
+      <Project Name="UOCinfectiousAgent" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
