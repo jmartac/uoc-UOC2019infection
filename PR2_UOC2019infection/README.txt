@@ -1,0 +1,1 @@
+OS: MV de la asignatura virtualizada en macOS Catalina

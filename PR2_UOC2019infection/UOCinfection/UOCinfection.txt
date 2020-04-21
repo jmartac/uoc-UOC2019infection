@@ -1,0 +1,1 @@
+./Debug/test_src_test_suit.c.o ./Debug/test_src_utils.c.o ./Debug/src_main.c.o ./Debug/test_src_test_pr1.c.o ./Debug/test_src_test_pr2.c.o
